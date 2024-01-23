@@ -1,7 +1,7 @@
 # Stock Market Analysis and Prediction Tool
 
 ## Overview
-This project is a sophisticated tool developed in C++ for analyzing and predicting stock market trends. It integrates various components such as financial data analysis, machine learning, algorithmic trading strategies, data visualization, performance optimization, user interface design, and comprehensive documentation and testing.
+This project is a sophisticated tool developed in C++ for analyzing and predicting stock market trends. It integrates various components such as financial data analysis, machine learning, algorithmic trading strategies, data visualisation, performance optimisation, user interface design, and comprehensive documentation and testing.
 
 ## Key Features
 - **Financial Data Analysis**: Utilizes real-time data from financial APIs for analysis.

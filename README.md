@@ -24,9 +24,6 @@ Step-by-step guide to installing the tool will be provided here.
 ## Usage
 Instructions and examples of how to use this tool will be added here.
 
-## Contributing
-Guidelines for contributing to this project will be detailed here.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
